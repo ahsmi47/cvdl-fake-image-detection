@@ -1,0 +1,6 @@
+theme: minima
+author: Ahmed Ibrahim (5093090), Krzysztof Garbowicz (), Michal Kuchar ()
+title: Evaluating the Impact of Digital Noise in AI-Generated Image Detection
+description: { Currently, generative machine learning models can produce images nearly indistinguishable from real photographs, the challenge of distinguishing between real and fake images has never been more pressing. 
+Our research delves into this critical issue and explores how adding noise to AI-generated images affects the detection of them by state-of-the-art ai-image-detection-systems.}
+
